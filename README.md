@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Hello! I'm KerenShay. I'm a Computer Engineering student in the Open University of Israel, 2nd year. 
-Additionally, I'm also a Frontend developer.
 
 I possess knowledge of the following languages:
 Frontend: HTML, CSS, Vanilla JavaScript, React JavaScript, React Redux Toolkit, React Query, Tailwind CSS, and Sass.
