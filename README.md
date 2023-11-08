@@ -3,8 +3,7 @@
 Hello! I'm KerenShay. I'm a Computer Engineering student in the Open University of Israel, 2nd year. 
 
 I possess knowledge of the following languages:
-Frontend: HTML, CSS, Vanilla JavaScript, React JavaScript, React Redux Toolkit, React Query, Tailwind CSS, and Sass.
-Other: Java, C, Assembly (MIPS edition), and Python.
+HTML, CSS, Vanilla JavaScript, React JavaScript, React Redux Toolkit, React Query, Tailwind CSS, Sass, Java, C, C++, Assembly (MIPS edition), and Python.
 
 <!--
 **KerenShay877/KerenShay877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
