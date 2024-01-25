@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KerenShay877" alt="KerenShay877" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Advanced Algorithms and Data Structures**
+- 🌱 I’m currently learning **C++, advanced algorithms and data structures.**
 
 - 📫 How to reach me **shaikeren877@gmail.com**
 
