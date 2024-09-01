@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Keren Shay!</h1>
 
 # 💫 About Me:
-  I am a second-year computer engineering student at The Open University of Israel, passionate about exploring the realms of coding, machine learning, and building robust applications.
+  🌐 I am a dedicated and ambitious student currently in my second year of pursuing a Bachelor of Science in Computer Engineering at the Open University of Israel. My academic journey is fueled by a deep passion for technology and a relentless curiosity to explore how it can be harnessed to solve complex, real-world problems. I am particularly interested in the intersection of software development, data science, and emerging technologies, and I am eager to contribute to innovative projects that push the boundaries of what's possible.
+
+💻 My technical skills encompass a broad spectrum of programming languages and development frameworks, including HTML, CSS, and JavaScript for front-end web development, as well as React JS for creating dynamic, user-centric interfaces. On the back end, I have experience with Node.js and SQL, which have allowed me to build and manage robust, scalable server-side applications. My proficiency in Python and Java further complements my ability to tackle a variety of software engineering challenges, while my knowledge of C# adds an additional layer of versatility to my skill set.
+
+🚀 Throughout my studies, I have consistently sought out opportunities to apply and expand my skills, both inside and outside the classroom. I have participated in various coding projects and hackathons, where I have had the chance to collaborate with peers, learn from industry professionals, and contribute to the development of innovative solutions. These experiences have not only honed my technical abilities but also reinforced the importance of teamwork, communication, and continuous learning in the fast-paced world of technology.
+
+📚 Beyond the classroom, I am an active learner who is always on the lookout for new challenges and learning opportunities. I regularly engage with online courses, tutorials, and developer communities to stay updated on the latest trends and best practices in software development. I am particularly fascinated by the potential of artificial intelligence, machine learning, and cloud computing, and I am eager to delve deeper into these areas as I progress in my studies and career.
+
+🔗 I am always open to connecting with like-minded professionals, fellow students, and industry experts. If you share my passion for technology and innovation, or if you're interested in collaborating on exciting projects, I would love to hear from you!
 
 ## 🚀 What I'm Up To
 
