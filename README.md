@@ -1,7 +1,7 @@
 <h1 align="center">Hello 😊, I'm Keren Shay!</h1>
 
 # 💫 About Me:
-  🌐 I am a dedicated and ambitious student currently pursuing a Bachelor of Science in Computer Engineering at the Open University of Israel. My academic journey is fueled by a deep passion for technology and a relentless curiosity to explore how it can be harnessed to solve complex, real-world problems. I am particularly interested in the intersection of software development, data science, and emerging technologies, and I am eager to contribute to innovative projects that push the boundaries of what's possible.
+  🌐 I am a dedicated and ambitious student currently pursuing a Bachelor of Science in Computer Science at the Open University of Israel. My academic journey is fueled by a deep passion for technology and a relentless curiosity to explore how it can be harnessed to solve complex, real-world problems. I am particularly interested in the intersection of software development, data science, and emerging technologies, and I am eager to contribute to innovative projects that push the boundaries of what's possible.
 
 💻 My technical skills encompass a broad spectrum of programming languages and development frameworks, including HTML, CSS, and JavaScript for front-end web development, as well as React JS for creating dynamic, user-centric interfaces. On the back end, I have experience with Node.js and SQL, which have allowed me to build and manage robust, scalable server-side applications. My proficiency in Python and Java further complements my ability to tackle a variety of software engineering challenges, while my knowledge of C# adds an additional layer of versatility to my skill set.
 
